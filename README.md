@@ -1,8 +1,8 @@
 
 <p align="center">
-	<img src="https://i.imgur.com/xFIGpOC.png"/>	
+	<img src=""/>	IMAGEM AQUI
 </p>
-<p align="center">
+<!--p align="center">
 	<a href="https://travis-ci.org/therubyproject/rubyserver/" target="_blank">
 		<img src="https://travis-ci.org/therubyproject/rubyserver.svg?branch=master"/>	
 	</a>
@@ -12,9 +12,9 @@
 	<a href="https://discord.gg/XTrZGpy" target="_blank">
 		<img src="https://img.shields.io/discord/402528955535458342.svg"/>	
 	</a>
-</p>
+</p-->
 
-The Ruby Server is a free and open-source Pokémon MMORPG server emulator written in C++. It is a fork of the [The Forgotten Server](https://github.com/otland/forgottenserver) project. To connect to the server, you can use [RubyClient](https://github.com/rubyserver/rubyclient).
+The Pokemon Server is a free and open-source Pokémon MMORPG server emulator written in C++. It is a fork of the [The Forgotten Server](https://github.com/otland/forgottenserver) project. To connect to the server, you can use [PokemonClient](https://github.com/rubyserver/rubyclient).
 
 ### Getting Started
 
@@ -27,11 +27,5 @@ The Ruby Server is a free and open-source Pokémon MMORPG server emulator writte
 We use the [issue tracker on GitHub](https://github.com/rubyserver/rubyserver/issues). Keep in mind that everyone who is watching the repository gets notified by e-mail when there is activity, so be thoughtful and avoid writing comments that aren't meaningful for an issue (e.g. "+1"). If you'd like for an issue to be fixed faster, you should either fix it yourself and submit a pull request, or place a bounty on the issue.
 
 ### Contributors
-
-* Leandro Matheus (Leohige)
-* Guilherme Leandro (Kurral)
-* João Medeiros (joaotmed)
-* Mateus (Majesty)
-* Gabriel Pedro (gpedro)
-* Felipe Muniz (Mun1z)
-* Nycholas de Sousa (nycholassousa)
+*Underewar
+*TFS
